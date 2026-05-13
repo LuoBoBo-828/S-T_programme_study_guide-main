@@ -18,18 +18,18 @@ For self-studying English, I would recommend the following resources:
     https://www.nytimes.com
     https://learnenglish.britishcouncil.org/skills/reading
     Some book recommendations:
-        1984 by George Orwell
-        Animal Farm by George Orwell
-        Brave New World by Aldous Huxley
-        The Great Gatsby by F. Scott Fitzgerald
-        To Kill a Mockingbird by Harper Lee
-        The Catcher in the Rye by J. D. Salinger
-        Do Androids Dream of Electric Sheep? by Philip K. Dick
-        Pride and Prejudice by Jane Austen
-        Jane Eyre by Charlotte Brontë
-        Wuthering Heights by Emily Brontë
-        The Lord of the Rings by J. R. R. Tolkien
-        Harry Potter and the Sorcerer’s Stone by J. K. Rowling
+        1984 by George Orwell；
+        Animal Farm by George Orwell；
+        Brave New World by Aldous Huxley；
+        The Great Gatsby by F. Scott Fitzgerald；
+        To Kill a Mockingbird by Harper Lee；
+        The Catcher in the Rye by J. D. Salinger；
+        Do Androids Dream of Electric Sheep? by Philip K. Dick；
+        Pride and Prejudice by Jane Austen；
+        Jane Eyre by Charlotte Brontë；
+        Wuthering Heights by Emily Brontë；
+        The Lord of the Rings by J. R. R. Tolkien；
+        Harry Potter and the Sorcerer’s Stone by J. K. Rowling；
 4.  Writing
     https://owl.purdue.edu
     https://www.grammarly.com/blog/
