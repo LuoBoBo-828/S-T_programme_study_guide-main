@@ -9,10 +9,10 @@ For mathematics, I still believe that doing extra practice is of crucial importa
 1. Advanced Mathematics (《高等数学》) — Advanced Mathematics, written by the Department of Mathematics at Tongji University, for calculus
 
 2. Introduction to Linear Algebra by Gilbert Strang, for linear algebra
-If you need some online resources for additional support, I would also recommend:
+（If you need some online resources for additional support, I would also recommend:
 https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
 [The Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-The first is Gilbert Strang’s linear algebra course materials from Massachusetts Institute of Technology, and the second is 3Blue1Brown’s Essence of Linear Algebra series, which is excellent for building geometric intuition.
+The first is Gilbert Strang’s linear algebra course materials from Massachusetts Institute of Technology, and the second is 3Blue1Brown’s Essence of Linear Algebra series, which is excellent for building geometric intuition.）
 
 3. A First Course in Probability by Sheldon Ross, for probability
 
