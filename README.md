@@ -63,8 +63,8 @@ This course is quite similar to the one we have in China, so I would advise you 
 The first four physics lectures overlap a lot with what’s usually covered in the domestic curriculum, while thermal physics also overlaps quite a bit with chemistry. I’d suggest going through the lecturer’s notes carefully and actually doing the assignments properly. There’s nothing particularly special to highlight in physics, so… I’ll just share a few pages of my old simplified notes on mechanics and thermodynamics, plus some lecture notes.
 Feel free to take a look if you want, but honestly it’s pretty self-study friendly stuff—nothing here is especially groundbreaking or worth overthinking 😎
 
-1. BTW, I would recommend the following book:
-University Physics with Modern Physics by Hugh D. Young and Roger A. Freedman
+BTW, I would recommend the following book:
+1. University Physics with Modern Physics by Hugh D. Young and Roger A. Freedman
 
 2. If you’re looking for something at the domestic “Strong Foundation Program” level, I’d recommend Mechanics from the university Strong Base physics series by Jingwu Deng and Zhiming Xiao(《高校强基计划物理教程 力学》by 邓靖武，肖址敏). If you want something at competition level, then go for Cheng Jiafu’s Mechanics volume(《力学篇》by 程稼夫), ideally together with proper lecture courses https://www.bilibili.com/video/BV1br4y1F7Ty/.
 
